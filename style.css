@@ -96,6 +96,7 @@ p{
 .fluid h1{
    position: relative;
    left: 28rem;
+   top: 2.5rem;
     color: #0b3250;
 }
 .card-body h5{
@@ -120,4 +121,39 @@ p{
 .card{
     border: none !important;
 }
+.fluid1{
+    
+    position: relative;
+    top: 18rem;
+} 
+.fluid1 h1{
+    position: relative;
+    left: 28rem;
+    top: 2.5rem;
+     color: #0b3250;
+ }
+ .card-text1{
+    color: blue;
+ }
+ .conatiner-fluid1{
+    position: relative;
+    top: 5rem;
+ }
+ .card1{
+    width: 25rem;
+ }
+ .conatiner-fluid3{
+    position: relative;
+    left: 25rem;
+ }
+ .conatiner-fluid3 img{
+    height: 35em;
+    width: 40em;
+ }
+ .fluid2{
+    text-align: center;
+    position: relative;
+    top: 28rem;
+ }
+ 
  
