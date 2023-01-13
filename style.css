@@ -46,4 +46,10 @@ p{
     height: 100%;
     width: 100%;
 }
+.heading1,.heading1-img{
+    width: 50%;
+}
+.heading1-img{
+    overflow: hidden;
+}
  
