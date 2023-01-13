@@ -52,4 +52,72 @@ p{
 .heading1-img{
     overflow: hidden;
 }
+.heading1 h1{
+    font-size: 50px;
+    width: 10.5em;
+    color: #0b3250;
+    position: relative;
+    top: 4rem;
+    left: 7rem;
+}
+.heading1 span{
+    width: 4em;
+    
+    position: relative;
+    top: 5rem;
+    left: 7rem;
+}
+.heading1 p{
+    color: blue;
+    text-decoration: underline;
+    position: relative;
+    top: 3.5rem;
+    left: 18rem;
+
+}
+.fw-semibold1{
+    width: 15em;
+    position: relative;
+    top: 6em;
+    left: 8em;
+}
+.fw-semibold2{
+    width: 10em;
+    position: relative;
+    top: 6em;
+    left: 10em;
+
+}
+.fluid{
+    
+    position: relative;
+    top: 15rem;
+} 
+.fluid h1{
+   position: relative;
+   left: 28rem;
+    color: #0b3250;
+}
+.card-body h5{
+    text-align: center;
+    color: #0b3250;
+}
+.card-text {
+    text-align: center  ;
+}
+.card-body span{
+    position: relative;
+    left: 5rem;
+    color: blue;
+}
+   
+
+.card img{
+    border-radius: 100%;
+    
+
+}
+.card{
+    border: none !important;
+}
  
