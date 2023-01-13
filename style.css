@@ -1,0 +1,49 @@
+nav{
+    margin-top: 0.65rem;
+    margin-right:0 !important ;
+}
+.fw-semibold{
+    font-family: sans-serif;
+}
+.btn{
+    width: 9rem;
+    height: 2.7rem;
+}
+p{
+    margin: 0;padding: 0;
+}
+.fw-normal{
+    margin: 0;
+}
+.mx-4{
+    margin-right: 2.5rem !important;
+}
+.login,.contact{
+    height: 2rem;
+    width: 6rem;
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+}
+.contact{
+    width: 8rem;
+    padding-top: 0;
+}
+.con{
+    padding-left: 0.6rem;
+    text-decoration: underline;
+}
+.internet{
+    margin-top: 0.7rem;
+    margin-right: 1rem;
+}
+.search{
+    margin-top: 1rem;
+}
+.banner-div{
+    background-color: rgb(2,24,56);
+}
+.banner{
+    height: 100%;
+    width: 100%;
+}
+ 
