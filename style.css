@@ -155,5 +155,62 @@ p{
     position: relative;
     top: 28rem;
  }
- 
+ .fluid3 h1{
+    position: relative;
+    top: 35rem;
+    left: 8rem;
+    color: #0b3250;
+
+ }
+ .card2{
+    
+    position: relative;
+    top: 38rem;
+    left: 8rem; 
+ }
+ .card2 img{
+    height: 20rem;
+    width: 30rem;
+ }
+ .card2,.btn{
+    
+    width: 12rem;
+ }
+ .card-title2{
+    color:  rgb(2,24,56);
+ }
+ .conatiner-fluid4{
+    position: relative;
+    left: 20rem;
+    top: 10rem;
+ }
+ .conatiner-fluid4 img{
+    height: 10rem;
+    width: 25rem;
+ }
+ .conatiner-fluid4 h4{
+    color: blue;
+ }
+ .fluid4{
+    text-align: center;
+    position: relative;
+    top: 12rem;
+    color: #0b3250;
+  
+ }
+ .conatiner-fluid5{
+    height: 20rem;
+    width: 60rem;
+    position: relative;
+    top: 6rem;
+    left: 18rem;
+ }
+ .card-text3{
+    padding: 2rem;
+    color: blue;
+ }
+ .card3,.btn{
+    padding: 3rem;
+    
+ }
  
