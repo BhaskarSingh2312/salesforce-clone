@@ -213,4 +213,59 @@ p{
     padding: 3rem;
     
  }
+ .fluid5{
+    text-align: center;
+    position: relative;
+    top: 22rem;
+    color: #0b3250;
+ }
+ .conatiner-fluid6{
+    height: 20rem;
+    width: 60rem;
+    position: relative;
+    top: 10rem;
+   left: 18rem;
+ }
+ .card-text5{
+    padding: 2rem;
+    color: rgb(14, 191, 231);
+ }
+ .card-text6{
+    text-align: center;
+    columns: blue;
+ }
+ .conatiner-fluid7{
+    height: 20rem;
+    width: 60rem;
+    position: relative;
+    top: 10rem;
+   left: 18rem;
+ }
+ .conatiner-fluid8{
+    height: 20rem;
+    width: 60rem;
+    position: relative;
+    top: 3rem;
+   left: 40rem;
+ }
+ .conatiner-fluid8 img{
+    height: 30rem;
+    width: 50rem;
+    /* position: relative;
+    top: 10rem;
+   left: 18rem; */
+ }
+ .card5{
+    width: 30rem;
+    position: relative;
+    top: 20em;
+    right: 10rem;
+ }
+.card-title5{
+    font-size: 30px;
+    color: #0b3250;
+}
+
+    
+ 
  
