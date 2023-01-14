@@ -3,12 +3,14 @@
 body{
     width: 100%;
     max-width: 100%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 nav{
     margin-top: 0.65rem;
     margin-right:0 !important ;
+    position: sticky;
+    top: 0;
 }
 .fw-semibold{
     font-family: sans-serif;
